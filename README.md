@@ -1,0 +1,2 @@
+Portfolio crado para evaluacion de Prog. IV, con lo aprendido en clase y aparte con algunas otras animaciones por experiencia personal, como el codigo js en el html para animacion suave, y trbajado en px como medida vieja normmal
+1 solo commit debido a falta de tiempo, el proyecto fue realizado en unas cuantas horas en diferentes dias con algunas correciones en local debido a errores de principiante y malas practicas en cuanto a la carpeta de assets con los iconos e imagenes.
